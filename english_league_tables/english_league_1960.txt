@@ -1,0 +1,22 @@
+ 1 BURNLEY                  42  15  2  4  52  28   9  5  7  33  33   55
+ 2 Wolverhampton Wanderers  42  15  3  3  63  28   9  3  9  43  39   54
+ 3 Tottenham Hotspur        42  10  6  5  43  24  11  5  5  43  26   53
+ 4 West Bromwich Albion     42  12  4  5  48  25   7  7  7  35  32   49
+ 5 Sheffield Wednesday      42  12  7  2  48  20   7  4 10  32  39   49
+ 6 Bolton Wanderers         42  12  5  4  37  27   8  3 10  22  24   48
+ 7 Manchester United        42  13  3  5  53  30   6  4 11  49  50   45
+ 8 Newcastle United         42  10  5  6  42  32   8  3 10  40  46   44
+ 9 Preston North End        42  10  6  5  43  34   6  6  9  36  42   44
+10 Fulham                   42  12  4  5  42  28   5  6 10  31  52   44
+11 Blackpool                42   9  6  6  32  32   6  4 11  27  39   40
+12 Leicester City           42   8  6  7  38  32   5  7  9  28  43   39
+13 Arsenal                  42   9  5  7  39  38   6  4 11  29  42   39
+14 West Ham United          42  12  3  6  47  33   4  3 14  28  58   38
+15 Everton                  42  13  3  5  50  20   0  8 13  23  58   37
+16 Manchester City          42  11  2  8  47  34   6  1 14  31  50   37
+17 Blackburn Rovers         42  12  3  6  38  29   4  2 15  22  41   37
+18 Chelsea                  42   7  5  9  44  50   7  4 10  32  41   37
+19 Birmingham City          42   9  5  7  37  36   4  5 12  26  44   36
+20 Nottingham Forest        42   8  6  7  30  28   5  3 13  20  46   35
+21 LEEDS UNITED             42   7  5  9  37  46   5  5 11  28  46   34
+22 LUTON TOWN               42   6  5 10  25  29   3  7 11  25  44   30

@@ -1,0 +1,22 @@
+ 1 LIVERPOOL                42  17  2  2  52  15   9  7  5  27  19   61
+ 2 Leeds United             42  14  4  3  49  15   9  5  7  30  23   55
+ 3 Burnley                  42  15  3  3  45  20   9  4  8  34  27   55
+ 4 Manchester United        42  12  8  1  50  20   6  7  8  34  39   51
+ 5 Chelsea                  42  11  4  6  30  21  11  3  7  35  32   51
+ 6 West Bromwich Albion     42  11  6  4  58  34   8  6  7  33  35   50
+ 7 Leicester City           42  12  4  5  40  28   9  3  9  40  37   49
+ 8 Tottenham Hotspur        42  11  6  4  55  37   5  6 10  20  29   44
+ 9 Sheffield United         42  11  6  4  37  25   5  5 11  19  34   43
+10 Stoke City               42  12  6  3  42  22   3  6 12  23  42   42
+11 Everton                  42  12  6  3  39  19   3  5 13  17  43   41
+12 West Ham United          42  12  5  4  46  33   3  4 14  24  50   39
+13 Blackpool                42   9  5  7  36  29   5  4 12  19  36   37
+14 Arsenal                  42   8  8  5  36  31   4  5 12  26  44   37
+15 Newcastle United         42  10  5  6  26  20   4  4 13  24  43   37
+16 Aston Villa              42  10  3  8  39  34   5  3 13  30  46   36
+17 Sheffield Wednesday      42  11  6  4  35  18   3  2 16  21  48   36
+18 Nottingham Forest        42  11  3  7  31  26   3  5 13  25  46   36
+19 Sunderland               42  13  2  6  36  28   1  6 14  15  44   36
+20 Fulham                   42   9  4  8  34  37   5  3 13  33  48   35
+21 NORTHAMPTON              42   8  6  7  31  32   2  7 12  24  60   33
+22 BLACKBURN ROVERS         42   6  1 14  30  36   2  3 16  27  52   20
