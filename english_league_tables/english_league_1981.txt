@@ -16,7 +16,7 @@
 16 Coventry City            42   9  6  6  31  30   4  4 13  17  38   36
 17 Sunderland               42  10  4  7  32  19   4  3 14  20  34   35
 18 Wolverhampton Wanderers  42  11  2  8  26  20   2  7 12  17  35   35
-19 Brighton   Hove Albion   42  10  3  8  30  26   4  4 13  24  41   35
+19 Brighton & Hove Albion   42  10  3  8  30  26   4  4 13  24  41   35
 20 NORWICH CITY             42   9  7  5  34  25   4  0 17  15  48   33
 21 LEICESTER CITY           42   7  5  9  20  23   6  1 14  20  44   32
 22 CRYSTAL PALACE           42   6  4 11  32  37   0  3 18  15  46   19
